@@ -32,3 +32,4 @@ artifacts/
 *.bak
 *.txt
 *.pdfPresentation/*.mp4
+Presentation/*.mp4
