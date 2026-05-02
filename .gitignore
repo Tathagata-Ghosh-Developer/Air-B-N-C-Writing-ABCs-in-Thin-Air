@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model artifacts (reproducible from notebooks)
+artifacts/
+*.pt
+*.onnx
+*.pkl
+*.tflite
+
+# Temporary files
+*.tmp
+*.bak
+*.txt
+*.pdf
