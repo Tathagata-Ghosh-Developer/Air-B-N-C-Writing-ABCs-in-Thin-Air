@@ -60,8 +60,9 @@ Use src/inference/rpi_pytorch_inference.py to run inference on trajectory images
 The project report is in report.md.
 
 ## Video presentation
-Add the 5–10 minute presentation link here:
-- [Video link](ADD-LINK-HERE)
+Demo:
+- [Live Demo]([https://drive.google.com/file/d/1EuaNRI6lfGtmUwquJgHnmxDBrOajcqtJ/view?usp=sharing])
+- [Full Presentation][https://drive.google.com/file/d/1nX2g0iEfiHOQT0g1UgKT4eJsrs9q415A/view?usp=sharing]
 
 ## Known gaps
 - TOF integration is not implemented.
